@@ -6,8 +6,8 @@ Pandas was used to get some meaningul insights from [Iris Dataset](https://archi
 
 All the problem statements shown below are answered
 
-*Problem Statement 1: Find and print count of each kind of flower (separated by space)
+* Problem Statement 1: Find and print count of each kind of flower (separated by space)
 
-*Problem Statement 2: Find the data of flower “Iris-virginica” type where petal-length > 1.5
+* Problem Statement 2: Find the data of flower “Iris-virginica” type where petal-length > 1.5
 
-*Problem Statement 3: Find and print the minimum, maximum and average value of the feature for each kind of flower
+* Problem Statement 3: Find and print the minimum, maximum and average value of the feature for each kind of flower
